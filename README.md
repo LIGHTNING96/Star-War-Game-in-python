@@ -15,3 +15,6 @@ How to install ?
 4- run game
 
 5- enjoy
+
+![bandicam 2020-05-31 08-46-25-110](https://user-images.githubusercontent.com/56846637/83346269-4678fc80-a31b-11ea-913c-1ac9e97c9265.jpg)
+
